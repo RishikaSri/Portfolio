@@ -115,10 +115,21 @@ function App() {
         <h2 className="section-title">Experience</h2>
         <div className="timeline">
 
+        <div className="exp-card">
+  <img src="/logos/uncc.png" alt="Exposys Logo" className="uncc-logo" />
+  <h3>Graduate Teaching Assistant — University of North Carolina Charlotte</h3>
+  <p className="duration">Jan 2026 – May 2026 · Onsite</p>
+  <p>• Assisted students in understanding core Artificial Intelligence concepts, including problem formulation, AI search strategies (uninformed and informed), heuristics, and problem-solving techniques
+• Explained complex AI topics through clear examples and one-on-one support, helping students grasp difficult concepts in search strategies and intelligent reasoning</p>
+  
+</div>
+         
+         
+         
          <div className="exp-card">
   <img src="/logos/exposys.png" alt="Exposys Logo" className="exp-logo" />
   <h3>Data Science Intern — Exposys Data Labs</h3>
-  <p className="duration">Sep 2024 – Oct 2024 · Remote</p>
+  <p className="duration">Jan 2024 – Dec 2024 · Remote</p>
   <p>I developed a Diabetes Prediction system using Python Flask and Logistic Regression, achieving 97% accuracy. Built a user-friendly interface with HTML/CSS for real-time health predictions, applying Pandas, NumPy, and Scikit-learn for data processing and model evaluation. This strengthened my skills in ML model deployment and web development. In addition, I learned to optimize models for better performance and gained practical exposure to integrating backend ML systems with intuitive front-end applications..</p>
   <div className="tags">
     <span>Python</span><span>Flask</span><span>Scikit-learn</span>
@@ -126,21 +137,12 @@ function App() {
   </div>
 </div>
 
-<div className="exp-card">
-  <img src="/logos/cyberekta.png" alt="CyberEkta Logo" className="exp-logo" />
-  <h3>Intern — CyberEkta</h3>
-  <p className="duration">May 2023 – Jun 2023 · Hyderabad</p>
-  <p>I designed and developed a MERN-based web application that connected farmers directly to customers for fresh produce sales. Integrated MongoDB for data management, built secure ordering and product listing features, and deployed the app on Azure. This project enhanced my full-stack development skills and cloud integration experience. I also collaborated with a small team, which improved my ability to work in an agile environment, manage feature updates, and ensure a smooth user experience from product listing to checkout.</p>
-  <div className="tags">
-    <span>React</span><span>Node.js</span><span>MongoDB</span>
-    <span>Express.js</span><span>Azure</span>
-  </div>
-</div>
+
 
 <div className="exp-card">
   <img src="/logos/phn.png" alt="PHN Tech Logo" className="exp-logo" />
   <h3>ML & Data Science Intern — PHN Technologies</h3>
-  <p className="duration">Apr 2023 – Jun 2023 · Remote</p>
+  <p className="duration">Apr 2023 – Dec 2023 · Remote</p>
   <p>I gained hands-on experience with machine learning, performing data cleaning, preprocessing, and analysis using Pandas and NumPy. Implemented algorithms such as Linear Regression, Decision Trees, and k-NN to solve real-world problems, strengthening my data science foundation and problem-solving skills. Beyond technical learning, I improved my ability to communicate findings effectively and adapt quickly to new ML concepts, which helped me transition from theory to practical application in real-world projects.</p>
   <div className="tags">
     <span>Python</span><span>NumPy</span><span>Pandas</span>
@@ -241,7 +243,7 @@ I implemented an image captioning model that combined CNN for feature extraction
 
 
 
-      <footer>© 2025 Rishika Sri Gaddam</footer>
+      <footer>© 2026 Rishika Sri Gaddam</footer>
     </div>
   );
 }
