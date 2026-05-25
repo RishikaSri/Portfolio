@@ -49,7 +49,7 @@ function App() {
         <div className="hero-content">
           <h2 className="hero-name">Rishika Sri Gaddam</h2>
           <h3 className="hero-title">
-            Software Engineer | MERN Developer | Data Science Enthusiast
+            Software Engineer |Data Analyst | Data Science Enthusiast
           </h3>
           <p>
             Looking for Software Engineering and Data Analyst roles. Skilled in
@@ -129,7 +129,7 @@ function App() {
          <div className="exp-card">
   <img src="/logos/exposys.png" alt="Exposys Logo" className="exp-logo" />
   <h3>Data Science Intern — Exposys Data Labs</h3>
-  <p className="duration">Jan 2024 – Dec 2024 · Remote</p>
+  <p className="duration">Sep 2024 – Oct 2024 · Remote</p>
   <p>I developed a Diabetes Prediction system using Python Flask and Logistic Regression, achieving 97% accuracy. Built a user-friendly interface with HTML/CSS for real-time health predictions, applying Pandas, NumPy, and Scikit-learn for data processing and model evaluation. This strengthened my skills in ML model deployment and web development. In addition, I learned to optimize models for better performance and gained practical exposure to integrating backend ML systems with intuitive front-end applications..</p>
   <div className="tags">
     <span>Python</span><span>Flask</span><span>Scikit-learn</span>
@@ -142,7 +142,7 @@ function App() {
 <div className="exp-card">
   <img src="/logos/phn.png" alt="PHN Tech Logo" className="exp-logo" />
   <h3>ML & Data Science Intern — PHN Technologies</h3>
-  <p className="duration">Apr 2023 – Dec 2023 · Remote</p>
+  <p className="duration">Apr 2023 – June 2023 · Remote</p>
   <p>I gained hands-on experience with machine learning, performing data cleaning, preprocessing, and analysis using Pandas and NumPy. Implemented algorithms such as Linear Regression, Decision Trees, and k-NN to solve real-world problems, strengthening my data science foundation and problem-solving skills. Beyond technical learning, I improved my ability to communicate findings effectively and adapt quickly to new ML concepts, which helped me transition from theory to practical application in real-world projects.</p>
   <div className="tags">
     <span>Python</span><span>NumPy</span><span>Pandas</span>
