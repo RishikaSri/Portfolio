@@ -48,14 +48,14 @@ function App() {
         <div id="tsparticles"></div>
         <div className="hero-content">
           <h2 className="hero-name">Rishika Sri Gaddam</h2>
-           <h3 className="hero-title">
-  Software Engineer | Generative AI Enthusiast | Full Stack Developer
-</h3>
-<br> </br>
-<br></br>
-<p>
-  Seeking full-time Software Engineering, AI/ML, and Generative AI roles. Skilled in Python, Java, MERN Stack, LangChain, OpenAI API, RAG pipelines, LLM applications, and scalable full-stack development.
-</p>
+          <h3 className="hero-title">
+         Software Engineer | Full Stack Developer | AI Engineer
+          </h3>
+          <p>
+            Actively seeking full-time and contract roles in Software Engineering, AI/ML, and Generative AI. Experienced in full-stack development, LLM-powered applications, semantic search, and scalable AI systems.
+            <br/><br/>
+            
+          </p>
 
           <div className="hero-buttons">
             <a href="#contact" className="btn primary">Get In Touch</a>
