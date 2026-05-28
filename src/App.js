@@ -48,15 +48,14 @@ function App() {
         <div id="tsparticles"></div>
         <div className="hero-content">
           <h2 className="hero-name">Rishika Sri Gaddam</h2>
-          <h3 className="hero-title">
-            Software Engineer |Data Analyst | Data Science Enthusiast
-          </h3>
-          <p>
-            Looking for Software Engineering and Data Analyst roles. Skilled in
-            MERN stack, Java, Python, ML libraries & Cloud.
-            <br/><br/>
-            
-          </p>
+           <h3 className="hero-title">
+  Software Engineer | Generative AI Enthusiast | Full Stack Developer
+</h3>
+<br> </br>
+<br></br>
+<p>
+  Seeking full-time Software Engineering, AI/ML, and Generative AI roles. Skilled in Python, Java, MERN Stack, LangChain, OpenAI API, RAG pipelines, LLM applications, and scalable full-stack development.
+</p>
 
           <div className="hero-buttons">
             <a href="#contact" className="btn primary">Get In Touch</a>
@@ -81,12 +80,14 @@ function App() {
       <section id="about" className="section dark">
         <h2 className="section-title">About Me</h2>
         <p className="about-text">
-          I am pursuing my MS in Computer Science at UNC Charlotte (graduating May 2026) and hold a Bachelor’s in CS from Osmania University. I’m actively seeking Spring 2026 internships or co-ops and full-time roles starting May 2026 in Software Development, Data Analytics, or Data Engineering.
-          <br/><br/>
-          My skills include Java, JavaScript, Python, MERN Stack, SQL, MongoDB, and AWS, along with Power BI, Tableau, Git, and TensorFlow. I’ve built projects in full-stack development, ML models, cloud systems, data visualization, predictive modeling, and LLM-based applications.
-          <br/><br/>
-          Passionate about solving real-world problems and building impactful products, I bring strong coding, analytical, and problem-solving abilities, with a drive to learn, innovate, and contribute to meaningful teams.
-        </p>
+  I am actively seeking full-time and contract opportunities in Software Engineering, Software Development Engineer (SDE), Generative AI, AI/ML, and Data Science roles. I recently graduated with a Master’s in Computer Science from the University of North Carolina at Charlotte and have experience building scalable full-stack applications, Retrieval-Augmented Generation (RAG) systems, LLM-powered AI applications, semantic search pipelines, and intelligent conversational systems.
+  <br /><br />
+
+  My skills include Python, Java, JavaScript, MERN Stack, LangChain, OpenAI API, GPT-4, FastAPI, Streamlit, SQL, MongoDB, AWS, and full-stack development technologies, along with hands-on experience in AI-driven systems, embeddings, semantic search, and conversational AI workflows.
+  <br /><br />
+
+  Passionate about solving real-world problems and building impactful products, I bring strong coding, analytical, and problem-solving abilities, with a continuous drive to learn emerging technologies, contribute to innovative teams, and develop scalable software and AI solutions.
+</p>
       </section>
 
       {/* EDUCATION */}
@@ -118,9 +119,13 @@ function App() {
         <div className="exp-card">
   <img src="/logos/uncc.png" alt="Exposys Logo" className="uncc-logo" />
   <h3>Graduate Teaching Assistant — University of North Carolina Charlotte</h3>
-  <p className="duration">Jan 2026 – May 2026 · Onsite</p>
-  <p>• Assisted students in understanding core Artificial Intelligence concepts, including problem formulation, AI search strategies (uninformed and informed), heuristics, and problem-solving techniques
-• Explained complex AI topics through clear examples and one-on-one support, helping students grasp difficult concepts in search strategies and intelligent reasoning</p>
+  <p className="duration">Aug 2025 – May 2026 · Onsite</p>
+  <p>• Assisted in AI research involving Generative AI, Large Language Models (LLMs), NLP, and Retrieval-Augmented Generation
+(RAG) for document-based conversational and question-answering systems.
+• Worked with embeddings, vector databases, semantic search, prompt engineering, and GPT-4 workflows while building
+AI prototypes using Python, OpenAI APIs, and machine learning libraries.
+• Performed data preprocessing, experimentation, AI model evaluation, testing, research documentation, and system
+optimization, with exposure to conversational AI and AI agent concepts.</p>
   
 </div>
          
