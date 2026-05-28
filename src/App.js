@@ -120,12 +120,8 @@ function App() {
   <img src="/logos/uncc.png" alt="Exposys Logo" className="uncc-logo" />
   <h3>Graduate Teaching Assistant — University of North Carolina Charlotte</h3>
   <p className="duration">Aug 2025 – May 2026 · Onsite</p>
-  <p>• Assisted in AI research involving Generative AI, Large Language Models (LLMs), NLP, and Retrieval-Augmented Generation
-(RAG) for document-based conversational and question-answering systems.
-• Worked with embeddings, vector databases, semantic search, prompt engineering, and GPT-4 workflows while building
-AI prototypes using Python, OpenAI APIs, and machine learning libraries.
-• Performed data preprocessing, experimentation, AI model evaluation, testing, research documentation, and system
-optimization, with exposure to conversational AI and AI agent concepts.</p>
+  <p> Assisted in AI research involving Generative AI, Large Language Models (LLMs), NLP, and Retrieval-Augmented Generation
+(RAG) for document-based conversational and question-answering systems.Worked with embeddings, vector databases, semantic search, prompt engineering, and GPT-4 workflows while building AI prototypes using Python, OpenAI APIs, and machine learning libraries.Performed data preprocessing, experimentation, AI model evaluation, testing, research documentation, and system optimization, with exposure to conversational AI and AI agent concepts.</p>
   
 </div>
          
@@ -208,20 +204,72 @@ I implemented an image captioning model that combined CNN for feature extraction
         </div>
       </section>
 
-      {/* SKILLS */}
-      <section id="skills" className="section dark">
-        <h2 className="section-title">Skills</h2>
-        <div className="skills-grid">
-          <div className="skill-box"><h4>Programming</h4><p>Python, Java, C, R, Git</p></div>
-          <div className="skill-box"><h4>Frontend</h4><p><strong>HTML, CSS</strong>, JavaScript, React, Angular, TypeScript</p></div>
-          <div className="skill-box"><h4>Backend</h4><p>Node.js, Express.js, MERN, APIs</p></div>
-          <div className="skill-box"><h4>Databases</h4><p>MySQL, MongoDB, PostgreSQL</p></div>
-          <div className="skill-box"><h4>Big Data</h4><p>Hadoop, Spark, MapReduce, Hive, BigQuery</p></div>
-          <div className="skill-box"><h4>AI/ML</h4><p>Scikit-learn, TensorFlow, Keras, PyTorch, OpenCV, Pandas</p></div>
-          <div className="skill-box"><h4>Cloud</h4><p>AWS, Azure, Snowflake</p></div>
-          <div className="skill-box"><h4>Visualization</h4><p>Tableau, Power BI</p></div>
-        </div>
-      </section>
+   {/* SKILLS */}
+<section id="skills" className="section dark">
+  <h2 className="section-title">Skills</h2>
+
+  <div className="skills-grid">
+
+    <div className="skill-box">
+      <h4>Programming Languages</h4>
+      <p>
+        Python, Java, C, R, JavaScript, TypeScript, SQL, Git
+      </p>
+    </div>
+
+    <div className="skill-box">
+      <h4>Web & Software Technologies</h4>
+      <p>
+        HTML5, CSS3, ReactJS, Angular, Node.js, Express.js,
+        REST APIs, MERN Stack, Streamlit, Flask, MATLAB
+      </p>
+    </div>
+
+    <div className="skill-box">
+      <h4>Databases</h4>
+      <p>
+        MySQL, MongoDB
+      </p>
+    </div>
+
+    <div className="skill-box">
+      <h4>AI / Generative AI</h4>
+      <p>
+        NLP, Generative AI, Large Language Models (LLMs),
+        Retrieval-Augmented Generation (RAG), Prompt Engineering,
+        Semantic Search, Embeddings, Conversational AI,
+        AI Agents, GPT-4, OpenAI API, LangChain,
+        Hugging Face
+      </p>
+    </div>
+
+    <div className="skill-box">
+      <h4>Machine Learning</h4>
+      <p>
+        Scikit-learn, TensorFlow, Keras, PyTorch,
+        OpenCV, Pandas, NumPy
+      </p>
+    </div>
+
+    <div className="skill-box">
+      <h4>Cloud & Development</h4>
+      <p>
+        AWS, Agile (Scrum), Full Stack Development,
+        API Integration, Software Development
+      </p>
+    </div>
+
+    <div className="skill-box">
+      <h4>Core Concepts</h4>
+      <p>
+        Data Structures & Algorithms, Object-Oriented Programming,
+        Operating Systems, Database Management Systems,
+        Software Engineering, Artificial Intelligence
+      </p>
+    </div>
+
+  </div>
+</section>
 
       {/* CONTACT */}
         <section id="contact" className="section light">
@@ -231,7 +279,7 @@ I implemented an image captioning model that combined CNN for feature extraction
     {/* Left Side */}
     <div className="contact-details">
       <p>📧 rishikasrigaddam23@gmail.com</p>
-      <p>📞 +1 (980) 457-4452</p>
+      <p>📞 +1 (980) 457-4452</p> 
     </div>
 
     {/* Right Side */}
